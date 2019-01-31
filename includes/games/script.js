@@ -1,0 +1,1 @@
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','550','height','420','src','includes/games/3-foot-ninja-ii','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','includes/games/3-foot-ninja-ii' );

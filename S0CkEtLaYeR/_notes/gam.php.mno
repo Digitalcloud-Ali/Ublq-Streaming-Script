@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Games_List" value="name:ChannelName;datatype:string,name:codes;datatype:string,name:daters;datatype:string,name:cates;datatype:string,name:keywds;datatype:string,name:ids;datatype:int" />
+</info>

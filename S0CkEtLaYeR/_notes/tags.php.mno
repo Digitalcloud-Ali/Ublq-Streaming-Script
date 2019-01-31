@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Tags" value="name:ids;datatype:int,name:Taggers;datatype:string" />
+	<infoitem key="UD_MyTags" value="name:ids;datatype:int,name:Taggers;datatype:string" />
+	<infoitem key="UD_MyTaggers" value="name:ids;datatype:int,name:taggers;datatype:string" />
+	<infoitem key="UD_utaggery" value="name:ids;datatype:int,name:taggers;datatype:string" />
+	<infoitem key="UD_Tagoos" value="name:ids;datatype:int,name:taggers;datatype:string" />
+</info>

@@ -1,0 +1,9 @@
+Options +FollowSymlinks
+RewriteEngine on
+
+ErrorDocument 301 http://www.mpfreebies.com/index.php?error=301
+ErrorDocument 400 http://www.mpfreebies.com/index.php?error=400
+ErrorDocument 401 http://www.mpfreebies.com/index.php?error=401
+ErrorDocument 403 http://www.mpfreebies.com/index.php?error=403
+ErrorDocument 404 http://www.mpfreebies.com/index.php?error=404
+ErrorDocument 500 http://www.mpfreebies.com/index.php?error=500

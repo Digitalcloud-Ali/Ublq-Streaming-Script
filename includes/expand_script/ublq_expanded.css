@@ -1,0 +1,41 @@
+.ublq_upper{	/* Styling question */
+	/* Start layout CSS */
+	font-size:0.9em;
+	width:207px;
+	margin-bottom:2px;
+	margin-top:2px;
+	padding-left:0px;
+	background-image:url('images/bg_answer.gif');
+	background-repeat:no-repeat;
+	background-position:top right;	
+	
+	/* End layout CSS */
+	
+	overflow:hidden;
+	cursor:pointer;
+}
+.ublq_lower{	/* Parent box of slide down content */
+	/* Start layout CSS */
+	width:207px;
+	/* End layout CSS */
+	visibility:hidden;
+	position:relative;
+	overflow: scroll;
+	overflow-x: hidden;
+	
+DISPLAY: none;
+SCROLLBAR-FACE-COLOR: #002F4E;
+BACKGROUND: ##003E66;
+SCROLLBAR-HIGHLIGHT-COLOR: #002F4E;
+SCROLLBAR-SHADOW-COLOR: #002F4E;
+SCROLLBAR-TRACK-COLOR: #999999;
+SCROLLBAR-DARKSHADOW-COLOR: #2B2F33;
+SCROLLBAR-BASE-COLOR: #2B2F33;
+scrollbar-arrow-color: #fbfbfb;
+	
+}
+.ublq_lower_content{	/* Content that is slided down */
+	padding:0px;
+	font-size:0.9em;	
+	position:relative;
+}
